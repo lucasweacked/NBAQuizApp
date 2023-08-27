@@ -1,77 +1,94 @@
-[
-    {
-        "pergunta": "Qual jogador da NBA ganhou o prêmio de MVP na temporada de 2018?",
-        "resposta_correta": "James Harden",
-        "opcoes": ["LeBron James", "Stephen Curry", "Kevin Durant", "James Harden"]
-    },
-    {
-        "pergunta": "Quantos campeonatos da NBA o Golden State Warriors ganhou entre 2007 e 2023?",
-        "resposta_correta": "4",
-        "opcoes": ["2", "3", "4", "5"]
-    },
-    {
-        "pergunta": "Qual equipe venceu o Campeonato da NBA na temporada 2016?",
-        "resposta_correta": "Cleveland Cavaliers",
-        "opcoes": ["Golden State Warriors", "Miami Heat", "Los Angeles Lakers", "Cleveland Cavaliers"]
-    },
-    {
-        "pergunta": "Quem foi o primeiro escolhido geral no Draft da NBA de 2019?",
-        "resposta_correta": "Zion Williamson",
-        "opcoes": ["RJ Barrett", "Ja Morant", "Zion Williamson", "De'Andre Hunter"]
-    },
-    {
-        "pergunta": "Qual jogador da NBA se aposentou em 2016, após 20 temporadas na liga?",
-        "resposta_correta": "Kobe Bryant",
-        "opcoes": ["Tim Duncan", "Dirk Nowitzki", "Kobe Bryant", "Kevin Garnett"]
-    },
-    {
-        "pergunta": "Quantos pontos LeBron James marcou em um único jogo dos playoffs de 2018?",
-        "resposta_correta": "51",
-        "opcoes": ["44", "51", "57", "62"]
-    },
-    {
-        "pergunta": "Qual equipe venceu o Campeonato da NBA na temporada 2013?",
-        "resposta_correta": "Miami Heat",
-        "opcoes": ["Los Angeles Lakers", "Chicago Bulls", "San Antonio Spurs", "Miami Heat"]
-    },
-    {
-        "pergunta": "Quem foi o MVP das Finais da NBA em 2019?",
-        "resposta_correta": "Kawhi Leonard",
-        "opcoes": ["Kevin Durant", "Stephen Curry", "Kawhi Leonard", "LeBron James"]
-    },
-    {
-        "pergunta": "Quantas temporadas consecutivas o Oklahoma City Thunder chegou aos playoffs entre 2010 e 2018?",
-        "resposta_correta": "8",
-        "opcoes": ["5", "6", "7", "8"]
-    },
-    {
-        "pergunta": "Qual jogador da NBA estabeleceu o recorde de mais triplos-duplos em uma única temporada em 2016?",
-        "resposta_correta": "Russell Westbrook",
-        "opcoes": ["LeBron James", "James Harden", "Stephen Curry", "Russell Westbrook"]
-    },
-    {
-        "pergunta": "Qual equipe tinha a melhor campanha na temporada regular da NBA de 2015-2016?",
-        "resposta_correta": "Golden State Warriors",
-        "opcoes": ["San Antonio Spurs", "Cleveland Cavaliers", "Los Angeles Clippers", "Golden State Warriors"]
-    },
-    {
-        "pergunta": "Quem foi o primeiro escolhido geral no Draft da NBA de 2018?",
-        "resposta_correta": "Deandre Ayton",
-        "opcoes": ["Trae Young", "Luka Dončić", "Deandre Ayton", "Jaren Jackson Jr."]
-    },
-    {
-        "pergunta": "Qual equipe venceu o Campeonato da NBA na temporada 2020?",
-        "resposta_correta": "Los Angeles Lakers",
-        "opcoes": ["Miami Heat", "Boston Celtics", "Los Angeles Clippers", "Los Angeles Lakers"]
-    },
-    {
-        "pergunta": "Quem liderou a NBA em média de pontos por jogo na temporada 2020-2021?",
-        "resposta_correta": "Stephen Curry",
-        "opcoes": ["Kevin Durant", "LeBron James", "Giannis Antetokounmpo", "Stephen Curry"]
-    },
-    {
-        "pergunta": "Quantas vezes o Toronto Raptors chegou às Finais da NBA entre 2007 e 2021?",
-        "resposta_correta": "1",
-        "opcoes": ["1", "2", "3", "4"]
-    }
-]
+{
+    "perguntas": [
+        {
+            "pergunta": "Qual jogador ganhou o prêmio de MVP na temporada de 2018?",
+            "resposta_correta": "James Harden",
+            "opcoes": ["LeBron James", "Stephen Curry", "Kevin Durant", "James Harden"],
+            "imagem_url": "https://exemplo.com/james_harden.jpg"
+        },
+        {
+            "pergunta": "Quantos campeonatos da NBA o Golden State Warriors ganhou entre 2007 e 2023?",
+            "resposta_correta": "4",
+            "opcoes": ["2", "3", "4", "5"],
+            "imagem_url": "https://exemplo.com/warriors.jpg"
+        },
+        {
+            "pergunta": "Qual equipe venceu o Campeonato da NBA na temporada 2016?",
+            "resposta_correta": "Cleveland Cavaliers",
+            "opcoes": ["Golden State Warriors", "Miami Heat", "Los Angeles Lakers", "Cleveland Cavaliers"],
+            "imagem_url": "https://exemplo.com/cavaliers.jpg"
+        },
+        {
+            "pergunta": "Quem foi o primeiro escolhido geral no Draft da NBA de 2019?",
+            "resposta_correta": "Zion Williamson",
+            "opcoes": ["RJ Barrett", "Ja Morant", "Zion Williamson", "De'Andre Hunter"],
+            "imagem_url": "https://exemplo.com/zion.jpg"
+        },
+        {
+            "pergunta": "Qual jogador da NBA se aposentou em 2016, após 20 temporadas na liga?",
+            "resposta_correta": "Kobe Bryant",
+            "opcoes": ["Tim Duncan", "Dirk Nowitzki", "Kobe Bryant", "Kevin Garnett"],
+            "imagem_url": "https://exemplo.com/kobe.jpg"
+        },
+        {
+            "pergunta": "Quantos pontos LeBron James marcou em um único jogo dos playoffs de 2018?",
+            "resposta_correta": "51",
+            "opcoes": ["44", "51", "57", "62"],
+            "imagem_url": "https://exemplo.com/lebron_playoffs.jpg"
+        },
+        {
+            "pergunta": "Qual equipe venceu o Campeonato da NBA na temporada 2013?",
+            "resposta_correta": "Miami Heat",
+            "opcoes": ["Los Angeles Lakers", "Chicago Bulls", "San Antonio Spurs", "Miami Heat"],
+            "imagem_url": "https://exemplo.com/heat.jpg"
+        },
+        {
+            "pergunta": "Quem foi o MVP das Finais da NBA em 2019?",
+            "resposta_correta": "Kawhi Leonard",
+            "opcoes": ["Kevin Durant", "Stephen Curry", "Kawhi Leonard", "LeBron James"],
+            "imagem_url": "https://exemplo.com/kawhi.jpg"
+        },
+        {
+            "pergunta": "Quantas temporadas consecutivas o Oklahoma City Thunder chegou aos playoffs entre 2010 e 2018?",
+            "resposta_correta": "8",
+            "opcoes": ["5", "6", "7", "8"],
+            "imagem_url": "https://exemplo.com/thunder.jpg"
+        },
+        {
+            "pergunta": "Qual jogador estabeleceu o recorde de mais triplos-duplos em uma única temporada em 2016?",
+            "resposta_correta": "Russell Westbrook",
+            "opcoes": ["LeBron James", "James Harden", "Stephen Curry", "Russell Westbrook"],
+            "imagem_url": "https://exemplo.com/westbrook.jpg"
+        },
+        {
+            "pergunta": "Qual equipe tinha a melhor campanha na temporada regular da NBA de 2015-2016?",
+            "resposta_correta": "Golden State Warriors",
+            "opcoes": ["San Antonio Spurs", "Cleveland Cavaliers", "Los Angeles Clippers", "Golden State Warriors"],
+            "imagem_url": "https://exemplo.com/warriors.jpg"
+        },
+        {
+            "pergunta": "Quem foi o primeiro escolhido geral no Draft da NBA de 2018?",
+            "resposta_correta": "Deandre Ayton",
+            "opcoes": ["Trae Young", "Luka Dončić", "Deandre Ayton", "Jaren Jackson Jr."],
+            "imagem_url": "https://exemplo.com/deandre_ayton.jpg"
+        },
+        {
+            "pergunta": "Qual equipe venceu o Campeonato da NBA na temporada 2020?",
+            "resposta_correta": "Los Angeles Lakers",
+            "opcoes": ["Miami Heat", "Boston Celtics", "Los Angeles Clippers", "Los Angeles Lakers"],
+            "imagem_url": "https://exemplo.com/lakers.jpg"
+        },
+        {
+            "pergunta": "Quem liderou a NBA em média de pontos por jogo na temporada 2020-2021?",
+            "resposta_correta": "Stephen Curry",
+            "opcoes": ["Kevin Durant", "LeBron James", "Giannis Antetokounmpo", "Stephen Curry"],
+            "imagem_url": "https://exemplo.com/steph_curry.jpg"
+        },
+        {
+            "pergunta": "Quantas vezes o Toronto Raptors chegou às Finais da NBA entre 2007 e 2021?",
+            "resposta_correta": "1",
+            "opcoes": ["1", "2", "3", "4"],
+            "imagem_url": "https://exemplo.com/raptors.jpg"
+        }
+    ]
+}
