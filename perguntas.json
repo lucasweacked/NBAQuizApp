@@ -10,19 +10,19 @@
             "pergunta": "Quantos campeonatos da NBA o Golden State Warriors ganhou entre 2007 e 2023?",
             "resposta_correta": "4",
             "opcoes": ["2", "3", "4", "5"],
-            "imagem_url": "https://exemplo.com/warriors.jpg"
+            "imagem_url": "https://e0.365dm.com/22/06/2048x1152/skysports-steph-curry-golden-state-warriors_5807162.jpg"
         },
         {
             "pergunta": "Qual equipe venceu o Campeonato da NBA na temporada 2016?",
             "resposta_correta": "Cleveland Cavaliers",
             "opcoes": ["Golden State Warriors", "Miami Heat", "Los Angeles Lakers", "Cleveland Cavaliers"],
-            "imagem_url": "https://exemplo.com/cavaliers.jpg"
+            "imagem_url": "https://hoopshabit.com/files/2016/06/stephen-curry-lebron-james-nba-finals-cleveland-cavaliers-golden-state-warriors.jpg"
         },
         {
             "pergunta": "Quem foi o primeiro escolhido geral no Draft da NBA de 2019?",
             "resposta_correta": "Zion Williamson",
             "opcoes": ["RJ Barrett", "Ja Morant", "Zion Williamson", "De'Andre Hunter"],
-            "imagem_url": "https://exemplo.com/zion.jpg"
+            "imagem_url": "https://sportshub.cbsistatic.com/i/r/2019/06/20/6fcbd753-81c8-402f-82f2-641cf4bbc228/thumbnail/1200x675/e72d5ee3b74a568a35ec266f5ca5a244/2nbadraft62019.jpg"
         },
         {
             "pergunta": "Qual jogador da NBA se aposentou em 2016, após 20 temporadas na liga?",
